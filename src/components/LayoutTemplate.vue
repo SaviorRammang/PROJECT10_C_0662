@@ -23,7 +23,7 @@
             <v-spacer></v-spacer>
             <span class="navbartext">
                 <!-- XXXX: NPM -->
-                Vuefire - XXXX
+                Vuefire - 0662
             </span>
         </v-app-bar>
         <div style="min-height: 100vh !important;">
