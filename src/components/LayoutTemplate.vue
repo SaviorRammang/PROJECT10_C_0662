@@ -57,6 +57,7 @@ export default {
             menus: [
                 {title: 'Merchandise', icon: 'mdi-hand-heart-outline', to:'/merchandise'},
                 {title: 'Album', icon: 'mdi-album', to:'/album'},
+                {title: 'Card Tugas', icon: 'mdi-album', to:'/card'},
             ],
         }
     }
